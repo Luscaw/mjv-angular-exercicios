@@ -1,4 +1,4 @@
-# PrimeiroProjeto
+# Repositório para o primeiro exercício da School MJV de Angular 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
