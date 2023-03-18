@@ -1,0 +1,39 @@
+.container {
+  width: 80%;
+  margin-left: 15%;
+}
+
+.title {
+  text-align: center;
+  color: #586a9a;
+}
+
+
+.firstp {
+  display: inline-block;
+  width: 40%;
+  margin: 1em;
+  margin-left: 5%;
+}
+
+.secondp {
+  display: inline-block;
+  width: 40%;
+  margin: 1em;
+  margin-left: 5%;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: space-between;
+  -webkit-justiify-content: space-between;
+  height: 60px;
+  padding: 0 1rem;
+  position: relative;
+}
+
+.main-body {
+  background-color: #fff;
+}
